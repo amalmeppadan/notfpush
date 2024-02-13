@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424111096561",
+    "project_id": "notfpush-c919d",
+    "storage_bucket": "notfpush-c919d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424111096561:android:beb0b94b4d77a494ae1f50",
+        "android_client_info": {
+          "package_name": "com.example.notfpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa_0myQ1f76Sn_J5ZDKxP9t9YUqhfhPOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
